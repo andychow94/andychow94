@@ -1,8 +1,10 @@
 ## Hey there! Welcome to my Github page 👋
 
-I am currently reviewing data structures and algorithms, but feel free to browse around and see my projects :smile:
+I am currently learning Next.js and creating a portfolio with it
 </br>
-Next up on my To-Do List: Learn Next.js and Typescript
+Feel free to browse around and see my projects :smile:
+</br>
+Next up on my To-Do List: Learn Typescript
 
 ### Let's connect! [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andychow94/)
 
